@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=robot&size=80&duration=1800&pause=3200&color=1F6D8F&background=000000&center=true&vCenter=true&width=1000&height=300&lines=Hi+%F0%9F%91%8B%2C+I'm+Abil)](https://git.io/typing-svg)
-<h2 align="center">Frontend developer</h3>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=robot&size=80&duration=1800&pause=3200&color=1F6D8F&background=000000&center=true&vCenter=true&width=1000&height=300&lines=Hi+%F0%9F%91%8B%2C+I'm+Abil)](https://git.io/typing-svg) -->
+# Hi i am Abil.
+<h2 align="left">Frontend developer</h3>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/abilsbt)
